@@ -5,7 +5,7 @@ import java.util.HashSet;
 public class Generator {
 	//******************Customization*****************
 	public static HashSet<String> hs;
-	public final static int numOfString=2000; //enter how many numbers do u want to generate
+	public final static int numOfString=2000; //enter how many strings do u want to generate
 	public final static int length=6; //enter generated string's length>0
 	public final static String symbols=RandomString.alphanum; //enter what you want to use for symbols to generate  also you can use RandomString.upper , RandomString.lower, RandomString.digits 
 	//*****************Customization END***************
